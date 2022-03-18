@@ -10,6 +10,7 @@ readme = "README.md"
 keywords = ["apds-9151", "proximity", "driver", "embedded-hal-driver"]
 categories = ["embedded", "hardware-support", "no-std"]
 homepage = "https://github.com/codytrey/apds9151"
+documentation = "https://docs.rs/apds9151"
 include = [
     "/**/*.rs",
     "/Cargo.toml",
