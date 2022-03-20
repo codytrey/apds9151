@@ -1,3 +1,5 @@
+#![no_std]
+
 mod register_access;
 mod apds9151;
 pub mod types;
